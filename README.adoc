@@ -1,0 +1,81 @@
+:icons: font
+
+= NeuroRights
+
+This is a proposed update to the https://github.com/NeuroRights/Human_Rights[Universal Declaration of Human Rights] to protect against the new era of https://en.wikipedia.org/wiki/Artificial_intelligence[AI], BCI's, and https://en.wikipedia.org/wiki/Neurotechnology[neurotechnology] from encroaching on https://en.wikipedia.org/wiki/Bodily_integrity[mental integrity] and https://en.wikipedia.org/wiki/Cognitive_liberty[cognitive liberty].
+
+== Preamble
+
+The Neuro Rights presented here do not seek to discover new fundamental rights, but rather to specify the most significant ones, and to describe instrumental or ancillary rights pertaining to such fundamental rights. 
+
+Neurotechnology abilities as of December 2020 demonstrate the capacity to decode imagery, intentions, speech, emotions, thoughts, dreams, stimulate and alter sensory perceptions, memory, enhance and combine brain processing power, and alter human behavior. 
+
+The use of technologies that substantially alter one’s personality, thoughts, physical experiences, and behavior requires attention to individual and societal protections.
+
+The development of these technologies and of the novel interactions which they open up give rise to new scenarios, contexts and conflicts that must be resolved by adapting rights and the law in order to protect the human rights of all peoples.
+
+Immoral algorithms may be biased or draw invasive insights from brain activity data. Immoral actors will be able to use internet connected brain computer interfaces to wirelessly manipulate a person's thoughts, emotions, dreams, physical behavior, and sensory experiences to torture or mentally enslave a person.
+
+> As with technologies such as chemical, biological, nuclear, or cyber warfare, this raises the concern as to the rules under which neurotechnologies should be used.
+
+
+== Article 1: Security of Mind and Body
+_Corollary to Universal Declaration of Human Rights Article 3, 5_
+
+The use of technology aimed at manipulating psychological or bodily functions or disturbing persons, in any aspect affecting fundamental rights, is prohibited. 
+
+This includes freedom from unwanted wireless neuro, interference, harassment, advertising, and any other unwanted transmissions.
+
+
+
+=== Article 2: Mental Integrity and Development of Personality
+_Corollary to Universal Declaration of Human Rights Article 22_
+
+Everyone has a right to individual identity and freedom from unwanted human-machine interfaces which could affect physical or psychological integrity.
+
+
+
+=== Article 3: Cognitive Liberty and Free-Will
+_Corollary to Universal Declaration of Human Rights Article 3, 4_
+
+Everyone is guaranteed individual self-determination, sovereignty, and freedom in decision-making. Persons also have a right from manipulation by external neurotechnologies.
+
+
+
+=== Article 4: Neuro Privacy
+_Corollary to Universal Declaration of Human Rights Article 12, 27_
+
+Any data obtained from neural activity should be kept private and subject to the same protections as other private medical information. This data can only be extracted with the informed consent of the individual. 
+
+No persons shall be subject to wireless neuro tracking using biomarkers unless they opt in.
+
+
+
+=== Article 5: Equality and Non-Discrimination 
+_Corollary to Universal Declaration of Human Rights Article 7_
+
+The right to algorithmic non-discrimination shall be guaranteed, regardless of the origin, cause or nature of the bias, with regard to decisions and processes based on algorithms. Transparency, auditability, explainability and traceability shall be ensured.
+
+Persons have the right not to be subject to a decision based solely on automated decisionmaking processes that produce legal effects, or significantly affect them in any manner. Persons have the right to request human supervision and intervention and the right to challenge automated or algorithmic decisions.
+
+
+---
+The adoption of Neuro Rights by the United Nations and other governing bodies would be a step forward in the great evolutionary process of retaining our human rights in a new era.
+
+---
+
+ifdef::env-github[]
+:tip-caption: :bulb:
+endif::[]
+
+[NOTE]
+This is a living document. 
+*Comments and proposed changes are encouraged from all citizens of Earth.*
+
+
+ifdef::env-github[]
+:tip-caption: :bulb:
+endif::[]
+
+[WARNING]
+*Because legislation may not be passed soon enough, the engineering of devices to protect or obscure neurodata should be initiated and promoted by public institutions.*
