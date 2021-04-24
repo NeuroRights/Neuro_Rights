@@ -1,4 +1,11 @@
-:icons: font
+ifndef::env-github[:icons: font]
+ifdef::env-github[]
+:caution-caption: :fire:
+:important-caption: :exclamation:
+:note-caption: :paperclip:
+:tip-caption: :bulb:
+:warning-caption: :warning:
+endif::[]
 
 = NeuroRights
 
@@ -16,47 +23,49 @@ The development of these technologies and of the novel interactions which they o
 
 Immoral algorithms may be biased or draw invasive insights from brain activity data. Immoral actors will be able to use internet connected brain computer interfaces to wirelessly manipulate a person's thoughts, emotions, dreams, physical behavior, and sensory experiences to torture or mentally enslave a person.
 
-> As with technologies such as chemical, biological, nuclear, or cyber warfare, this raises the concern as to the rules under which neurotechnologies should be used.
+> As with technologies such as chemical, biological, nuclear, or cyber, this raises the concern as to the rules under which neurotechnologies should be used.
 
 
 == Article 1: Security of Mind and Body
 _Corollary to Universal Declaration of Human Rights Article 3, 5_
-
+....
 The use of technology aimed at manipulating psychological or bodily functions or disturbing persons, in any aspect affecting fundamental rights, is prohibited. 
 
 This includes freedom from unwanted wireless neuro, interference, harassment, advertising, and any other unwanted transmissions.
+....
 
 
-
-=== Article 2: Mental Integrity and Development of Personality
+== Article 2: Mental Integrity and Development of Personality
 _Corollary to Universal Declaration of Human Rights Article 22_
-
+....
 Everyone has a right to individual identity and freedom from unwanted human-machine interfaces which could affect physical or psychological integrity.
+....
 
 
-
-=== Article 3: Cognitive Liberty and Free-Will
+== Article 3: Cognitive Liberty and Free-Will
 _Corollary to Universal Declaration of Human Rights Article 3, 4_
-
+....
 Everyone is guaranteed individual self-determination, sovereignty, and freedom in decision-making. Persons also have a right from manipulation by external neurotechnologies.
+....
 
 
-
-=== Article 4: Neuro Privacy
+== Article 4: Neuro Privacy
 _Corollary to Universal Declaration of Human Rights Article 12, 27_
-
+....
 Any data obtained from neural activity should be kept private and subject to the same protections as other private medical information. This data can only be extracted with the informed consent of the individual. 
 
 No persons shall be subject to wireless neuro tracking using biomarkers unless they opt in.
+....
 
 
 
-=== Article 5: Equality and Non-Discrimination 
+== Article 5: Equality and Non-Discrimination 
 _Corollary to Universal Declaration of Human Rights Article 7_
-
+....
 The right to algorithmic non-discrimination shall be guaranteed, regardless of the origin, cause or nature of the bias, with regard to decisions and processes based on algorithms. Transparency, auditability, explainability and traceability shall be ensured.
 
 Persons have the right not to be subject to a decision based solely on automated decisionmaking processes that produce legal effects, or significantly affect them in any manner. Persons have the right to request human supervision and intervention and the right to challenge automated or algorithmic decisions.
+....
 
 
 ---
@@ -64,18 +73,11 @@ The adoption of Neuro Rights by the United Nations and other governing bodies wo
 
 ---
 
-ifdef::env-github[]
-:tip-caption: :bulb:
-endif::[]
 
-[NOTE]
+[TIP]
 This is a living document. 
-*Comments and proposed changes are encouraged from all citizens of Earth.*
+Comments and proposed changes are encouraged from all citizens of Earth.
 
 
-ifdef::env-github[]
-:tip-caption: :bulb:
-endif::[]
-
-[WARNING]
-*Because legislation may not be passed soon enough, the engineering of devices to protect or obscure neurodata should be initiated and promoted by public institutions.*
+[CAUTION]
+Because legislation may not be passed soon enough, the engineering of devices to protect or obscure neurodata should be initiated and promoted by public and private institutions.
