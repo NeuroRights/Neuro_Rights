@@ -9,7 +9,7 @@ endif::[]
 
 = NeuroRights
 
-This is a proposed update to the https://github.com/NeuroRights/Human_Rights[Universal Declaration of Human Rights] to protect against the new era of https://en.wikipedia.org/wiki/Artificial_intelligence[AI], https://en.wikipedia.org/wiki/Brain-computer_interface[BCI], and https://en.wikipedia.org/wiki/Neurotechnology[neurotechnology] from encroaching on https://en.wikipedia.org/wiki/Bodily_integrity[mental integrity] and https://en.wikipedia.org/wiki/Cognitive_liberty[cognitive liberty].
+This is a proposed update to the https://github.com/NeuroRights/Human_Rights[Universal Declaration of Human Rights] to protect against the new era of https://en.wikipedia.org/wiki/Artificial_intelligence[artificial intelligence], https://en.wikipedia.org/wiki/Brain-computer_interface[brain-computer interfaces], and https://en.wikipedia.org/wiki/Neurotechnology[neurotechnology] from encroaching on https://en.wikipedia.org/wiki/Bodily_integrity[mental integrity] and https://en.wikipedia.org/wiki/Cognitive_liberty[cognitive liberty].
 
 == Preamble
 
