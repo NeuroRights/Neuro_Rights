@@ -1,0 +1,16 @@
+= Contributions
+
+This proposal combines ideas from many people and organizations. Below are some of the people and organizations that have greatly contributed to this initiative. 
+
+
+* https://www.ohchr.org/en/hrbodies/hrc/pages/home.aspx[United Nations Human Rights Council]
+* https://nri.ntc.columbia.edu[Columbia NeuroRights Initiative]
+** https://nri.ntc.columbia.edu/people/professor-rafael-yuste[Rafael Yuste]
+* https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html[The Belmont Report]
+* https://phil.washington.edu/people/sara-goering[Sara Goering]
+* https://ainowinstitute.org/[AI Now Institute at New York University]
+* https://www.uwa.edu.au/schools/research/Minderoo-Tech-and-Policy-Lab[Minderoo Tech and Policy Lab]
+** https://research-repository.uwa.edu.au/en/persons/julia-powles[Julia Powles]
+
+
+The goal is to get as many people involved as possible by making it easy to discuss and update by anyone who is interested. Contribute your ideas -- we would love to see your name here.
